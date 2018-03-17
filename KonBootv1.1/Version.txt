@@ -1,0 +1,24 @@
+Version Changelog for Kon Boot
+============================
+
+Copyright
+----------------
+Copyright (C) 2008-2010 Kryptos Logic. All rights reserved.
+
+This list includes improvements, bug fixes, and other relevant information.
+It is arranged in descending chronological order.
+
+Version 1.1
+----------------
+- Added 64-bit environment support
+- Added USB support tools (grldr, klmemusb)
+- Added debugging code to make it easier to track down various compatibility problems
+- Added help file
+- Fixed bug in Windows 7 support failures
+- Removed Linux support
+- Many performance improvements to source code 
+- Improved BIOS support by reducing code size significantly
+
+Version 1.0
+----------------
+- History file started
